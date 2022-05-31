@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sdowding
 - 👀 I’m interested in continuious delivery
-- 🌱 I’m currently learning Go
+- 🌱 I’m currently using Go
 
 <!---
 sdowding/sdowding is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
