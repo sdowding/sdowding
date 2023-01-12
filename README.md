@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sdowding
-- 👀 I’m interested in continuious delivery
+- 👀 I’m interested in continuous delivery
 - 🌱 I’m currently using Go
 
 <!---
